@@ -1,0 +1,14 @@
+.dashboard-container {
+    height: 500px;
+    max-height: 500px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.dashboard-card-box {
+    height: 150px;    
+}
+
+.card-box-border {
+    border-right: 1px solid #ccc;
+}
